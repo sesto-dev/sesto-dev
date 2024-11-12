@@ -1,7 +1,5 @@
-## Hi there 👋
-
 <!--
-**sesto-dev/sesto-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sesto-dev/sesto-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on their GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+```json
+{
+  "name": "Amirhossein Mohammadi",
+  "youtube": "https://youtube.com/@sesto-dev",
+  "skills":["NestJS", "Next.js", "Django", "Kubernetes"]
+}
+```
