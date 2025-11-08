@@ -1,23 +1,8 @@
-<!--
-**sesto-dev/sesto-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on their GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-```json
-{
-  "name": "Amirhossein Mohammadi",
-  "youtube": "https://youtube.com/@sesto-dev",
-  "skills":["NestJS", "Next.js", "Django", "Kubernetes"]
-}
-```
+<pre>
+  <code>
+    {
+      "name": "Amirhossein Mohammadi",
+      "youtube": "<a href='https://youtube.com/@sesto-dev'>My YouTube Channel 👆</a>",
+    }
+  </code>
+</pre>
